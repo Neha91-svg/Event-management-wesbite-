@@ -1,0 +1,140 @@
+.ZEAL-GAMES-PAGE {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ZEAL-GAMES-PAGE .div {
+  background-image: url(./img/zeal-games-page-4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+
+.ZEAL-GAMES-PAGE .overlap {
+  position: absolute;
+  width: 1512px;
+  height: 88px;
+  top: 3px;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 7.5px #0000001a;
+}
+
+.ZEAL-GAMES-PAGE .overlap-group {
+  position: absolute;
+  width: 322px;
+  height: 80px;
+  top: 4px;
+  left: 0;
+}
+
+.ZEAL-GAMES-PAGE .text-wrapper {
+  position: absolute;
+  top: 16px;
+  left: 103px;
+  font-family: "Padauk", Helvetica;
+  font-weight: 700;
+  color: #323232;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ZEAL-GAMES-PAGE .logo {
+  position: absolute;
+  width: 125px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.ZEAL-GAMES-PAGE .menu {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 17px;
+  left: 1450px;
+}
+
+.ZEAL-GAMES-PAGE .overlap-group-2 {
+  position: absolute;
+  width: 495px;
+  height: 250px;
+  top: 99px;
+  left: 5px;
+  border-radius: 36px;
+}
+
+.ZEAL-GAMES-PAGE .rectangle {
+  position: absolute;
+  width: 495px;
+  height: 250px;
+  top: 0;
+  left: 0;
+  background-color: #000000b2;
+  border-radius: 36px;
+  box-shadow: 1px 1px 25px #0000001f;
+}
+
+.ZEAL-GAMES-PAGE .snake-laddder {
+  position: absolute;
+  top: 49px;
+  left: 152px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 55px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.ZEAL-GAMES-PAGE .overlap-2 {
+  position: absolute;
+  width: 495px;
+  height: 250px;
+  top: 99px;
+  left: 1011px;
+  border-radius: 36px;
+}
+
+.ZEAL-GAMES-PAGE .treasure-hunt {
+  position: absolute;
+  top: 54px;
+  left: 120px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.ZEAL-GAMES-PAGE .overlap-3 {
+  position: absolute;
+  width: 495px;
+  height: 250px;
+  top: 99px;
+  left: 508px;
+  border-radius: 36px;
+}
+
+.ZEAL-GAMES-PAGE .quiz-game {
+  position: absolute;
+  top: 54px;
+  left: 157px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 70px;
+}

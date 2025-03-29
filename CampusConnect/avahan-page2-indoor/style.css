@@ -1,0 +1,216 @@
+.AVAHAN-INDOOR-PAGE {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.AVAHAN-INDOOR-PAGE .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1512px;
+  height: 1926px;
+  position: relative;
+}
+
+.AVAHAN-INDOOR-PAGE .overlap {
+  position: absolute;
+  width: 1500px;
+  height: 257px;
+  top: 263px;
+  left: 6px;
+  background-image: url(./img/rectangle-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper {
+  position: absolute;
+  top: 42px;
+  left: 549px;
+  font-family: "Playfair Display SC", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 128px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .overlap-group {
+  position: absolute;
+  width: 1500px;
+  height: 257px;
+  top: 532px;
+  left: 6px;
+  background-image: url(./img/rectangle-5.png);
+  background-size: 100% 100%;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-2 {
+  position: absolute;
+  top: 42px;
+  left: 481px;
+  font-family: "Playfair Display SC", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 128px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .div-wrapper {
+  position: absolute;
+  width: 1500px;
+  height: 257px;
+  top: 801px;
+  left: 6px;
+  background-image: url(./img/rectangle-6.png);
+  background-size: 100% 100%;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-3 {
+  position: absolute;
+  top: 28px;
+  left: 419px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .rectangle {
+  position: absolute;
+  width: 1379px;
+  height: 225px;
+  top: -2967px;
+  left: -2925px;
+}
+
+.AVAHAN-INDOOR-PAGE .group {
+  position: absolute;
+  width: 1504px;
+  height: 172px;
+  top: 1629px;
+  left: 12px;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-4 {
+  position: absolute;
+  width: 301px;
+  top: 0;
+  left: 600px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .vidyavardhini-s {
+  position: absolute;
+  width: 1500px;
+  top: 59px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .overlap-group-2 {
+  position: absolute;
+  width: 1512px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 7px 15px #0000001a;
+}
+
+.AVAHAN-INDOOR-PAGE .menu {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 20px;
+  left: 1446px;
+}
+
+.AVAHAN-INDOOR-PAGE .overlap-2 {
+  position: absolute;
+  width: 314px;
+  height: 80px;
+  top: 8px;
+  left: 0;
+}
+
+.AVAHAN-INDOOR-PAGE .logo {
+  position: absolute;
+  width: 120px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-5 {
+  position: absolute;
+  top: 16px;
+  left: 95px;
+  font-family: "Padauk", Helvetica;
+  font-weight: 700;
+  color: #323232;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-6 {
+  position: absolute;
+  top: 1822px;
+  left: 639px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AVAHAN-INDOOR-PAGE .icon-youtube {
+  position: absolute;
+  width: 73px;
+  height: 51px;
+  top: 1856px;
+  left: 679px;
+}
+
+.AVAHAN-INDOOR-PAGE .icon-instagram-icon {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 1856px;
+  left: 770px;
+}
+
+.AVAHAN-INDOOR-PAGE .text-wrapper-7 {
+  position: absolute;
+  top: 153px;
+  left: 557px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}

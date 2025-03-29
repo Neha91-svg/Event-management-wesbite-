@@ -1,0 +1,190 @@
+.EVENTS-PAGE {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.EVENTS-PAGE .div {
+  background-color: #ffffff;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+
+.EVENTS-PAGE .overlap {
+  height: 440px;
+  top: 94px;
+  position: absolute;
+  width: 1512px;
+  left: 0;
+}
+
+.EVENTS-PAGE .avahan {
+  top: 211px;
+  position: absolute;
+  width: 1512px;
+  height: 229px;
+  left: 0;
+  cursor: pointer;
+}
+
+.avahan:hover{
+  opacity: 0.9;
+}
+.avahan:active{
+  opacity: 1;
+}
+
+.EVENTS-PAGE .text-wrapper {
+  position: absolute;
+  height: 133px;
+  top: 245px;
+  left: 60px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EVENTS-PAGE .text-wrapper-2 {
+  position: absolute;
+  height: 128px;
+  top: 237px;
+  left: 1362px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EVENTS-PAGE .text-wrapper-3 {
+  position: absolute;
+  height: 23px;
+  top: 353px;
+  left: 1340px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EVENTS-PAGE .zeal{
+  top: 0;
+  position: absolute;
+  width: 1512px;
+  height: 229px;
+  left: 0;
+  cursor: pointer;
+}
+
+.zeal:hover{
+  opacity: 0.9;
+}
+.zeal:active{
+  opacity: 1;
+}
+
+.EVENTS-PAGE .element-zeal {
+  position: absolute;
+  height: 128px;
+  top: 29px;
+  left: 1350px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EVENTS-PAGE .new-events-zeal {
+  position: absolute;
+  height: 23px;
+  top: 157px;
+  left: 1329px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EVENTS-PAGE .text-wrapper-4 {
+  position: absolute;
+  height: 133px;
+  top: 38px;
+  left: 60px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EVENTS-PAGE .overlap-group {
+  height: 88px;
+  top: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 1px 7.5px #0000001a;
+  position: absolute;
+  width: 1512px;
+  left: 0;
+}
+
+.EVENTS-PAGE .frame {
+  position: absolute;
+  width: 334px;
+  height: 88px;
+  top: 0;
+  left: 0;
+}
+
+.EVENTS-PAGE .container {
+  display: flex;
+  width: 333px;
+  height: 88px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: -26px;
+}
+
+.EVENTS-PAGE .logo {
+  position: relative;
+  width: 111px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.EVENTS-PAGE .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-left: -30px;
+  font-family: "Padauk", Helvetica;
+  font-weight: 700;
+  color: #323232;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EVENTS-PAGE .menu {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 20px;
+  left: 1447px;
+}
